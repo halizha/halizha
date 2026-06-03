@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hello! I'm Halizha Intan Safitri 👋
+Fresh Graduate in Information Systems with an interest in Web Development, Business Intelligence, and Data Analytics. I enjoy building useful digital solutions and continuously learning new technologies to improve efficiency and user experience.
 
 
 ## 🌐 Socials:
